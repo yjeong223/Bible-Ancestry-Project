@@ -1,0 +1,837 @@
+P: Adam
+K: Abel
+noKid
+P: Cain
+P: Enoch1
+P: Irad
+P: Mehujael
+P: Methushael
+K: Lamech1
+noKid
+noSib
+noSib
+noSib
+noSib
+noSib
+P: Seth
+P: Enosh
+P: Kenan
+P: Mehalalel
+P: Jared
+P: Enoch2
+P: Methuselah
+P: Lamech2
+P: Noah
+P: Shem
+K: Elam
+noKid
+K: Asshur
+noKid
+P: Arpachshad
+P: Shelah1
+P: Eber
+K: Joktan
+noKid
+P: Peleg
+P: Reu
+P: Serug
+P: Nahor1
+P: Terah
+P: Haran
+P: Lot
+P: Moab
+K: Moabites
+noKid
+noSib
+P: Ben Ammi
+K: Ammonites
+noKid
+noSib
+noSib
+noSib
+P: Abraham
+K: Ishmael1
+noKid
+P: Isaac
+P: Esau
+P: Eliphaz
+K: Teman
+noKid
+K: Omar
+noKid
+K: Zepho
+noKid
+K: Gatam
+noKid
+K: Kenaz1
+noKid
+K: Timna
+noKid
+P: Amalek
+K: Amalekites
+noKid
+noSib
+noSib
+K: Reuel
+noKid
+K: Jeush
+noKid
+K: Jalam
+noKid
+K: Korah1
+noKid
+noSib
+P: Jacob1
+K: Reuben
+noKid
+K: Simeon1
+noKid
+P: Levi1
+P: Gershon
+P: Libni
+P: Jahath
+P: Shimei
+P: Zimmah1
+P: Ethan
+P: Adaiah
+P: Zerah2
+P: Ethni
+P: Malchijah
+P: Baaseiah
+P: Michael
+P: Shimea3
+P: Berechiah
+K: Asaph
+noKid
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+P: Zimmah2
+P: Joah
+P: Iddo
+P: Zerah3
+K: Jeatherai
+noKid
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+K: Shimea4
+noKid
+noSib
+K: Jochebed
+noKid
+P: Kohath
+P: Amram
+P: Aaron
+K: Nadab2
+noKid
+K: Abihu
+noKid
+P: Eleazar1
+P: Phinehas
+P: Abishua1
+P: Bukki
+P: Uzzi2
+P: Zerahiah
+P: Meraioth
+P: Amariah1
+P: Ahitub1
+P: Zadok1
+P: Ahimaaz
+P: Azariah2
+P: Johanan
+P: Azariah3
+P: Amariah2
+P: Ahitub2
+P: Zadok2
+P: Shallum2
+P: Hilkiah
+P: Azariah4
+P: Seraiah1
+P: Jehozadak
+K: Joshua1
+noKid
+noSib
+K: Ezra
+noKid
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+K: Ithamar
+noKid
+noSib
+K: Miriam
+noKid
+P: Moses
+P: Gershom
+K: Shebuel
+noKid
+noSib
+P: Eliezer1
+P: Rehabiah
+P: Jeshaiah
+P: Joram2
+P: Zichri1
+K: Shelomoth
+noKid
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+P: Izhar
+P: Korah2
+P: Assir1
+P: Elkanah1
+P: Abiasaph1
+P: Assir2
+P: Tahath
+P: Zephaniah
+P: Azariah5
+P: Joel1
+P: Elkanah2
+P: Amasai
+P: Mahath
+P: Elkanah3
+P: Zuph
+P: Toah
+P: Eliel
+P: Jeroham1
+P: Elkanah4
+P: Samuel
+P: Joel2
+K: Heman
+noKid
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+P: Zophai
+P: Nahath
+P: Eliab1
+P: Jeroham2
+K: Elkanah5
+noKid
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+K: Ahimoth
+noKid
+noSib
+noSib
+noSib
+noSib
+P: Uriel
+P: Uzziah
+K: Shaul
+noKid
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+K: Elkanah6
+noKid
+K: Abiasaph2
+noKid
+noSib
+K: Nepheg
+noKid
+K: Zichri2
+noKid
+noSib
+K: Hebron
+noKid
+K: Uzziel1
+noKid
+noSib
+K: Merari
+noKid
+noSib
+P: Judah1
+K: Er1
+noKid
+K: Onan
+noKid
+P: Shelah2
+P: Er2
+K: Lacah
+noKid
+noSib
+K: Laadah
+noKid
+K: Jokim
+noKid
+K: Cozeba
+noKid
+P: Jephunneh
+K: Caleb1
+noKid
+P: Kenaz2
+K: Othniel
+noKid
+K: Seraiah2
+noKid
+noSib
+noSib
+K: Joash1
+noKid
+K: Saraph
+noKid
+K: Jashubi-lehem
+noKid
+noSib
+P: Perez
+P: Hezron
+K: Jerahmeel
+noKid
+P: Ram
+P: Amminidab
+P: Nahson
+P: Salma
+P: Boaz
+P: Obed
+P: Jesse
+K: Eliab2
+noKid
+K: Abinadab1
+noKid
+K: Shimea1
+noKid
+K: Nethanel
+noKid
+K: Raddai
+noKid
+K: Ozem
+noKid
+P: David
+K: Ammon
+noKid
+K: Daniel
+noKid
+K: Absolom
+noKid
+K: Adinijah
+noKid
+K: Shephatiah
+noKid
+K: Ithream
+noKid
+K: Shimea2
+noKid
+K: Shodab
+noKid
+P: Nathan
+P: Mattatha
+P: Menna
+P: Melea
+P: Eliakim1
+P: Jonam
+P: Joseph1
+P: Judah2
+P: Simeon2
+P: Levi2
+P: Matthat2
+P: Jorim
+P: Eliezer2
+P: Joshua2
+P: Er3
+P: Elmadam
+P: Cosam
+P: Addi
+P: Melchi1
+P: Neri
+P: Shealtiel1
+P: Zerubbabel1
+P: Rhesa
+P: Joanan
+P: Joda
+P: Josech
+P: Semein
+P: Mattathias1
+P: Maath
+P: Naggai
+P: Hesli
+P: Nahum
+P: Amos
+P: Mattathias2
+P: Joseph2
+P: Jannai
+P: Melchi2
+P: Levi3
+P: Matthat1
+P: Eli
+P: Mary
+K: Jesus
+noKid
+K: James
+noKid
+K: Joses
+noKid
+K: Judas
+noKid
+K: Simon
+noKid
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+P: Solomon
+P: Rehoboam
+P: Abijah
+P: Asa
+P: Jehoshaphat
+P: Joram1
+P: Ahaziah
+P: Joash2
+P: Amaziah
+P: Azariah1
+P: Jotham
+P: Ahaz2
+P: Hezekiah
+P: Manasseh
+P: Amon
+P: Josiah
+K: Jehoahaz
+noKid
+P: Jehoiakim
+P: Jehoiachin
+K: Zedekiah1
+noKid
+P: Shealtiel2
+P: Zerubbabel2
+P: Abihud1
+P: Eliakim2
+P: Azor
+P: Zadoc
+P: Achim
+P: Eliud
+P: Eleazar2
+P: Matthan
+P: Jacob2
+K: Joseph3
+noKid
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+K: Malchiram
+noKid
+K: Pedaiah
+noKid
+K: Shenazzar
+noKid
+K: Jekamiah
+noKid
+K: Hoshama
+noKid
+K: Nedabiah
+noKid
+noSib
+K: Zedekiah2
+noKid
+noSib
+K: Zedekiah3
+noKid
+K: Shallum1
+noKid
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+K: Ibhar
+noKid
+K: Elishama1
+noKid
+K: Eliphelet
+noKid
+K: Nogah
+noKid
+K: Nepheg
+noKid
+K: Japhia
+noKid
+K: Tamar
+noKid
+noSib
+K: Zeruiah
+noKid
+K: Abigail
+noKid
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+K: Caleb2
+noKid
+K: Ashhur
+noKid
+P: Segug
+K: Jair
+noKid
+noSib
+noSib
+K: Hamul
+noKid
+noSib
+K: Zerah1
+noKid
+noSib
+K: Dan
+noKid
+K: Naphtali
+noKid
+K: Gad
+noKid
+K: Asher
+noKid
+K: Issachar
+noKid
+K: Zebulun
+noKid
+P: Joseph4
+K: Manasseh
+noKid
+P: Ephraim
+K: Shuthelah
+noKid
+K: Ezer
+noKid
+K: Elead
+noKid
+P: Beriah
+K: Sheerah
+noKid
+K: Rephah
+noKid
+P: Resheph
+P: Telah
+P: Tahan
+P: Ladan
+P: Ammihud
+P: Elishama2
+P: Nun
+K: Joshua3
+noKid
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+P: Benjamin
+P: Bela
+K: Ezbon
+noKid
+K: Uzzi1
+noKid
+K: Uzziel2
+noKid
+K: Jerimoth
+noKid
+K: Iri
+noKid
+P: Ard
+P: Gera1
+P: Abihud2
+P: Abishua2
+P: Naaman1
+P: Ahoah
+P: Gera2
+K: Shephuphan
+noKid
+K: Ehud
+noKid
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+K: Naaman2
+noKid
+noSib
+K: Becher
+noKid
+K: Ashbel
+noKid
+K: Aharah
+noKid
+K: Nohah
+noKid
+P: Rapha
+P: Becorath
+P: Zeror
+P: Jeiel
+K: Abdon
+noKid
+K: Zur
+noKid
+K: Kish1
+noKid
+K: Baal
+noKid
+P: Ner
+P: Kish2
+P: Saul
+P: Jonathan
+P: Merib-baal
+P: Micah
+K: Pithon
+noKid
+K: Melech
+noKid
+K: Tahrea
+noKid
+P: Ahaz1
+P: Jarah
+K: Alemeth
+noKid
+K: Azmaveth
+noKid
+P: Zimri
+P: Moza
+P: Binea
+P: Rephaiah
+P: Eleasah
+P: Azel
+K: Azrikam
+noKid
+K: Bocheru
+noKid
+K: Ishmael2
+noKid
+K: Sheariah
+noKid
+K: Obadiah
+noKid
+K: Hanan
+noKid
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+K: Malchi-shua
+noKid
+K: Abinadab2
+noKid
+K: Eshbaal
+noKid
+noSib
+noSib
+noSib
+K: Nadab1
+noKid
+K: Gedor
+noKid
+K: Ahio
+noKid
+K: Zechariah
+noKid
+P: Mikloth
+K: Shimeam
+noKid
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+K: Dinah
+noKid
+noSib
+noSib
+K: Zimran
+noKid
+K: Jokshan
+noKid
+K: Medan
+noKid
+K: Midian
+noKid
+K: Ishbak
+noKid
+K: Shuah
+noKid
+noSib
+P: Nahor2
+K: Uz
+noKid
+K: Buz
+noKid
+K: Kemuel
+noKid
+K: Chesed
+noKid
+K: Hazo
+noKid
+K: Pildash
+noKid
+K: Jidiaph
+noKid
+P: Bethuel
+K: Rebekah
+noKid
+P: Laban
+K: Leah
+noKid
+K: Rachael
+noKid
+noSib
+noSib
+K: Tebah
+noKid
+K: Gaham
+noKid
+K: Tahash
+noKid
+K: Maacah
+noKid
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+K: Lud
+noKid
+K: Aram
+noKid
+noSib
+K: Japheth
+noKid
+P: Ham
+P: Cush
+noKid
+K: Mizraim
+noKid
+K: Put
+noKid
+K: Canaan
+noKid
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
+noSib
