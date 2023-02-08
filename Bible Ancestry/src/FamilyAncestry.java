@@ -159,7 +159,9 @@ public class FamilyAncestry {
         }
 
     }
-
+    
+    //Any name directly under another indicate that it is a child of the name above it. 
+    //Any name who is connected by horizontal dashes indicates sibling hood. 
     public void displayTree() {
         printSubtree(First, 0, 0);
     }
